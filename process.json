@@ -1,0 +1,6 @@
+{
+    "script": "pm2SplitCSV.js",
+    "name": "pm2",
+    "instances": "max",
+    "exec_mode": "cluster"
+  }
